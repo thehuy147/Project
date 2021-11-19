@@ -1,0 +1,1 @@
+This is my little project about crawling comments and rating star in a specific product.
