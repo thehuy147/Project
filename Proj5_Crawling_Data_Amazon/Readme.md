@@ -1,0 +1,3 @@
+Hi guys, in this Project i will crawling data from a random product in Amazon.com, all of the comment, review star,...
+
+First of all i crawl all the data needed, the code is in the Web Crawling file, then i prepare data in to an excel sheet.
