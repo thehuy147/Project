@@ -1,6 +1,6 @@
 # Data Analysis Project:
 
-This repository is mainly for projects i have done through Data from Kaggle.
+This repository is mainly for projects i have done through Data from Internet
 
 Subject Covered:
 + Anaconda: Learn to use Anaconda to manage packages and environments for use with Python
